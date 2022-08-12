@@ -1,0 +1,238 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.hero{
+    
+    font-family: 'Times New Roman', Times, serif;
+    background: #fafbfb;
+    min-height: 100vh;
+    width: 100%;
+   
+    position: relative;
+}
+nav{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20px 8px;
+    background-color: #eff3f3;
+    justify-content: space-between;
+}
+.menu-img{
+    height: 80px;
+    cursor: pointer;
+}
+.contact{
+    height: 80px;
+    
+    padding: 25px;
+    background-color: red;
+    border: none;
+   display: flex;
+   
+    
+} 
+
+ #Layer_1{
+    height: 160px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+} 
+.first{
+    width: 100%;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 500px;
+}
+.second{
+    margin: 20px;
+    padding: 10px;
+}
+.earth{
+    display: flex;
+}
+.Erth{
+    width:50%;
+}
+
+.global{
+    width: 50%;
+    margin:50px;
+}
+.services{
+    width: 100%;
+    background-color: rgb(194, 201, 199);
+    margin: 25px;
+}
+.para{
+    padding: 50px;
+    
+}
+.para_2{
+    width: 100%;
+    padding: 50px;
+    margin-left: 25px;
+}
+.expertise{
+    margin-left: 25px;
+    padding: 50px;
+    display: flex;
+   
+}
+.industries{
+    background-color: rgb(194, 201, 199);
+
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+.img{
+    justify-content: center;
+    padding: 50px;
+}
+.outer{
+    position: relative;
+  
+    height: 400px;
+}
+.inner{
+   
+    background-color: rgb(194, 201, 199);
+    padding: 20px;
+    width: 60%;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 300px;
+}
+.tata{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    position: relative;
+    justify-content: center;
+}
+.love{
+ 
+    text-align: center;
+    padding-top: 100px;
+    
+}
+.companies{
+    width: 100%;
+    display: flex;
+    margin:20px;
+
+
+}
+.logo{
+    width: 20%;
+    padding: 20px;
+}
+.cname{
+    width: 150px;
+    height: 75px;
+}
+.team{
+    display: flex;
+
+}
+.careers{
+    padding: 100px;
+    width: 50%;
+    background-color: rgb(244, 248, 247);
+
+}
+.hand{
+    width: 50%;
+}
+.btn{
+    cursor: pointer;
+   text-size-adjust:  10px;;
+    background: none;
+    border: none;
+}
+.insights{
+    display: flex;
+
+}
+.blog1{
+    width: 100%;
+    padding-top: 100px;
+    margin-left: 10px;
+}
+.card1{
+    height: 90%;
+    margin-left: 10px;
+    margin-right: 20px;
+    border-radius: 5px;
+    width :100%;
+}
+.blog{
+    margin-right: 40px;
+    width: 50%;
+   
+}
+
+.read{
+    display: flex;
+    margin-right: 0%;
+    margin-bottom: 10px;
+   border-radius: 3px;
+}
+.lorem{
+    border-radius: 3px;
+    text-align: center;
+width: 50%;
+
+}
+.txt{
+    background-color: rgb(194, 201, 199);
+    padding: 20px;
+}
+.bimg{
+  margin-left: 0%;
+    height: 185px;
+    width: 100%;
+    border-radius: 2px;
+}
+.work{
+position: relative;
+width: 100%;
+
+}
+.banner img{
+      width: 100%;
+      height: 500px;
+      position: absolute;
+}
+.work1{
+    position: relative;
+    text-align: center;
+    padding-top: 250px;
+}
+.beta{
+    margin-top: 150px;
+    height: 120px;
+    width: 100%;
+    background-color: rgb(194, 201, 199);
+    padding-left: 20px;
+    padding-top: 80px;
+}
+.content{
+    display: flex;
+    background-color: rgb(194, 201, 199);
+
+}
+.footer{
+    background-color: rgb(104, 107, 106);
+    text-align: center;
+    padding: 50px;
+    height: 50px;
+    width: 100%;
+    margin-top: 0;
+}
